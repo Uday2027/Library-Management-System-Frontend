@@ -3,7 +3,6 @@ import { Button } from "@/components/ui/button";
 import { Link, useNavigate } from "react-router-dom";
 import {
   Edit,
-  BookOpen,
   User,
   Tag,
   CheckCircle,

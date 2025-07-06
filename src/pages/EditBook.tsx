@@ -18,7 +18,7 @@ import {
   Loader2,
   AlertCircle,
 } from "lucide-react";
-import type { Genre, IBook } from "@/types/book";
+import type { Genre} from "@/types/book";
 import { toast } from "react-toastify";
 
 export default function EditBook() {

@@ -2,7 +2,7 @@ import { useGetBooksQuery } from "@/redux/api";
 import BookCard from "@/components/BookCard";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import { Plus, BookOpen, Library, SearchX } from "lucide-react";
+import { Plus,  Library, SearchX } from "lucide-react";
 import type { IBook } from "@/types/book";
 
 // Skeleton component for loading state
